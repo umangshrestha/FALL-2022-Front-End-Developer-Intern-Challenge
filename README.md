@@ -1,4 +1,26 @@
-[instruction.pdf](./doc/FrontEndDeveloperInternChallenge-OpenAI\(Fall2022\).pdf)
+# Front End Developer Intern Challenge (Fall-2022)
+This repo is part of pre-interview for `Frontend Intern` postion. The instructions can be found here
+[instruction.pdf](./doc/FrontEndDeveloperInternChallenge-OpenAI\(Fall2022\).pdf).
+
+![main image](./doc/home.png)
+
+# Steps
+```
+* Get OpenAI.
+* Store it in .env file as 
+    REACT_APP_OPENAI_SECRET="your token goes here"
+* npm install
+* npm start
+```
+
+# Features
+To change the AI.
+```
+* Click on the setting logo.
+* Select AI.
+```
+![select ai image](./doc/ai.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
